@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="FixLinks.aspx.cs" Inherits="Sitecore.Support.FixLinks" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FixLinks.aspx.cs" Inherits="Sitecore.Support.FixLinks" %>
 
 <!DOCTYPE html>
 
